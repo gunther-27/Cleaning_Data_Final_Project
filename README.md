@@ -1,7 +1,7 @@
 # Cleaning_Data_Final_Project
 Final Project for 03 Getting and Cleaning Data
 
-=================================================
+
 Getting and Cleaning Data Course Project
 Version 1.0
 =================================================
@@ -12,7 +12,7 @@ A full description of the data can be found here: http://archive.ics.uci.edu/ml/
 
 Data was downloaded from here: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip  
 
-=================================================
+
 This repo contains the following:
 
 - READMD.md
@@ -20,7 +20,7 @@ This repo contains the following:
 - CodeBook.md
 
 - run_analysis.R
-=================================================
+
 
 Running code:
 ============
